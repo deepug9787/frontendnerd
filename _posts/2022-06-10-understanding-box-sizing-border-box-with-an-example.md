@@ -112,3 +112,7 @@ can do that by setting the `box-sizing` property to `border-box` like so:
 
 Now we can set the `margin-left` and `margin-right` property of the box to any value and it'll
 remain centered, irrespective of the width of the container.
+
+P.S If you liked this post, do consider giving a star on GitHub. Thanks.
+
+[View source on Github](https://github.com/deepug9787/frontendnerd)
