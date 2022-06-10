@@ -33,7 +33,7 @@ and a `border` for the box as well.
 
 Here's what we've got so far:
 <br><br>
-![](/assets/1.png)
+<img src="{{ site.baseurl }}/assets/1.png">
 <br><br>
 Now what if we want to horizontally center the box inside the container?
 
@@ -58,7 +58,7 @@ That should center the box, right?
 
 Here's what the result looks like:
 <br><br>
-![](/assets/2.png)
+<img src="{{ site.baseurl }}/assets/2.png">
 <br><br>
 Uh-oh! Instead of being centered, it looks like our box is positioned more towards the right.
 
@@ -75,7 +75,7 @@ So the actual width of the box = 800px (text content width) + 40px (20px padding
 And the total width of content inside the parent container = 850px (box width) + 200px (100px margin
 on either side) = 1050px
 <br><br>
-![](/assets/3.png)
+<img src="{{ site.baseurl }}/assets/3.png">
 <br><br>
 As you can see, the content inside the container (box + margin) overflows its parent by 50px.
 
@@ -96,7 +96,7 @@ either side) = 1000px.
 
 The box is now centered inside the container.
 <br><br>
-![](/assets/4.png)
+<img src="{{ site.baseurl }}/assets/4.png">
 <br><br>
 But the problem here is that if we change the width of the container, this will no longer work.
 
