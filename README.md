@@ -17,7 +17,7 @@ bundle exec jekyll serve
 Note: If you get an error at this point, it might be because webrick is missing from your
 dependencies. You can add that by running `bundle add webrick`. Then run `bundle exec jekyll serve` again.
 
-Once the local server is up and running, open http://localhost:4000/frontendnerd/ in your browser to
+Once the local server is up and running, open http://localhost:4000/ in your browser to
 view the site.
 
 ## Contributing:
