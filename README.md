@@ -24,4 +24,4 @@ view the site.
 
 All contributions are welcome.
 
-If you found any issues with the site, please feel free to submit a PR. Thanks.
+If you found any issues with the site, please feel free to submit a pull request. Thanks.
