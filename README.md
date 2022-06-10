@@ -2,7 +2,7 @@
 
 A blog about frontend development.
 
-[](https://deepug9787.github.io/frontendnerd/)
+[https://deepug9787.github.io/frontendnerd/](https://deepug9787.github.io/frontendnerd/)
 
 ## To run locally:
 
