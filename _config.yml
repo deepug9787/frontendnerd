@@ -22,7 +22,7 @@ title: frontend nerd
 description: >- # this means to ignore newlines until "baseurl:"
     A blog about frontend development.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://frontendnerd.com" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://frontendnerd.com" # the base hostname & protocol for your site, e.g. http://example.com
 permalink: /blog/:title
 show_excerpts: true
 
