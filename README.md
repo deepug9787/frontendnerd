@@ -2,7 +2,7 @@
 
 A blog about frontend development.
 
-[http://frontendnerd.com/](http://frontendnerd.com/)
+[https://frontendnerd.com/](https://frontendnerd.com/)
 
 ## To run locally:
 
