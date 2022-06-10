@@ -25,6 +25,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://frontendnerd.com" # the base hostname & protocol for your site, e.g. http://example.com
 permalink: /blog/:title
 show_excerpts: true
+google_analytics: G-G0RB6QBRFH
 
 # Build settings
 theme: minima
