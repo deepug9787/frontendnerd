@@ -115,6 +115,5 @@ remain centered, irrespective of the width of the container.
 
 P.S This article was inspired by a comment I left on this [reddit
 post](https://www.reddit.com/r/css/comments/v2lqfc/comment/iaw56uj/?utm_source=share&utm_medium=web2x&context=3).
-If you liked this article, do consider giving a star on GitHub. Thanks.
 
 [View source on Github](https://github.com/deepug9787/frontendnerd)
